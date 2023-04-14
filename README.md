@@ -1,4 +1,3 @@
-
 #Project-3---Time-series---bar-graph
 This project is an interactive bar graph visualization created using Processing. The graph displays a dataset of daily minimum temperatures over time.
 
